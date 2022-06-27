@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f | wc -l
+tree -a 0x02-shell_redirections
