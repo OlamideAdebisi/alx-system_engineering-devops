@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1- acrostics\n
+printf "%s\n" "Acrostic" | rot123
